@@ -1,3 +1,10 @@
+<!-- embryo-brand -->
+# Embryo HDL Scala
+
+**Embryo HDL Scala** is Embryo-Zero's fork of [Chisel](https://github.com/chipsalliance/chisel), made by Embryo Zero Backyard Data Center Corporation. Our changes are on the `embryo` branch; see [EMBRYO.md](EMBRYO.md), [LEGAL.md](LEGAL.md) and [CHANGES-EMBRYO.md](CHANGES-EMBRYO.md). The original project's README follows unchanged, with its authors' credits.
+
+---
+
 <a href="https://www.chisel-lang.org">
   <img src="https://raw.githubusercontent.com/chipsalliance/chisel/main/docs/src/images/chisel_logo.svg?sanitize=true" height="60">
 </a>
